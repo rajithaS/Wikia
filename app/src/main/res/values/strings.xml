@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wikia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_more_data">No more data to show</string>
+    <string name="no_data_available">No data available</string>
+    <string name="loading">Loading</string>
+    <string name="action_refresh_list">Refresh</string>
+    <string name="couldnt_load_data">Couldn\'t load data</string>
+    <string name="not_connected_to_internet">Not connected to internet. Check network availability</string>
+
+</resources>
